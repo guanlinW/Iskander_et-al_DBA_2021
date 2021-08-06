@@ -18,6 +18,9 @@ Ribosome dysfunction underlies the pathogenesis of many cancers and heritable ri
 #### Figure 1B-D
 https://guanlinW.github.io/Iskander-et-al-Figure1.html
 
+#### Figure 2A-C,E
+https://guanlinW.github.io/Iskander-et-al-Figure2.html
+
 #### Figure S1
 https://guanlinW.github.io/Iskander-et-al-Supplemental-Figure1.html
 
