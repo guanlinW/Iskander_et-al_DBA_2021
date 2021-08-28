@@ -11,6 +11,12 @@ Ribosome dysfunction underlies the pathogenesis of many cancers and heritable ri
 
 <img width="591" alt="Screenshot 2021-08-28 at 17 30 12" src="https://user-images.githubusercontent.com/61470410/131224509-91392e2d-381d-4666-bbb1-77168ca8d8fa.png">
 
+### SingCelaR can be downloaded 
+
+https://doi.org/10.5281/zenodo.5167626
+
+
+
 ### Codes for scRNAseq analysis
 
 
