@@ -24,7 +24,7 @@ https://guanlinW.github.io/Iskander-et-al-Figure1.html
 https://guanlinW.github.io/Iskander-et-al-Figure2.html
 
 #### Figure 4A-D,E
-https://guanlinW.github.io/Iskander-et-al-Figure2.html
+https://guanlinW.github.io/Iskander-et-al-Figure4.html
 
 
 #### Supplemental figures 
