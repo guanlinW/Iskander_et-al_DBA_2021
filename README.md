@@ -16,6 +16,8 @@ Ribosome dysfunction underlies the pathogenesis of many cancers and heritable ri
 https://doi.org/10.5281/zenodo.5167626
 
 
+### `.gmt` files can be downloaded from genesets folder above
+
 
 ### Codes for scRNAseq analysis
 
