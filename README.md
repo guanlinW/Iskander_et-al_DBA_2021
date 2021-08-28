@@ -1,4 +1,4 @@
-# Iskander_et-al_DBA_2021
+# Iskander et al, Science translational medicine, 2021
 
 ### Title
 Single-cell profiling of human bone marrow progenitors reveals mechanisms of failing erythropoiesis in Diamond-Blackfan anemia
@@ -15,15 +15,33 @@ Ribosome dysfunction underlies the pathogenesis of many cancers and heritable ri
 #### R objects downloading 
 10.5281/zenodo.5167626
 
+#### Main figures
+
 #### Figure 1B-D
 https://guanlinW.github.io/Iskander-et-al-Figure1.html
 
 #### Figure 2A-C,E
 https://guanlinW.github.io/Iskander-et-al-Figure2.html
 
+#### Figure 4A-D,E
+https://guanlinW.github.io/Iskander-et-al-Figure2.html
+
+
+#### Supplemental figures 
+
 #### Figure S1
 https://guanlinW.github.io/Iskander-et-al-Supplemental-Figure1.html
 
+#### Figure S2
+https://guanlinW.github.io/Iskander-et-al-Supplemental-Figure2.html
 
+#### Figure S3
+https://guanlinW.github.io/Iskander-et-al-Supplemental-Figure3.html
+
+#### Figure S4
+https://guanlinW.github.io/Iskander-et-al-Supplemental-Figure4.html
+
+#### Figure S7
+https://guanlinW.github.io/Iskander-et-al-Supplemental-Figure7.html
 
 
